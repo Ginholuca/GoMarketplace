@@ -17,6 +17,7 @@ import { useCart } from '../../hooks/cart';
 
 // Calculo do total
 // Navegação no clique do TouchableHighlight
+// Dale
 
 const FloatingCart: React.FC = () => {
   const { products } = useCart();
